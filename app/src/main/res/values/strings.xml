@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">database</string>
+    <string name="name_label">Nome:</string>
+    <string name="bottone_invio">submit</string>
+    <string name="bottone_show">get names</string>
+    <string name="name_input"> </string>
+    <string name="bottone_delete"> delete </string>
+</resources>
